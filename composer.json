@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^5.5.9 || ^7.0",
-        "drmyersii/dingo-blueprint": "dev-master",
+        "drmyersii/dingo-blueprint": "v1.0.*",
         "doctrine/annotations": "1.2.*",
         "illuminate/routing": "5.1.* || 5.2.*",
         "illuminate/support": "5.1.* || 5.2.*",
